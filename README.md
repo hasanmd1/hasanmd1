@@ -8,7 +8,7 @@ I'm a passionate Computer Science student with a love for coding and technology.
 - 🚀 Always eager to learn and explore new technologies.
 - 🌟 Interested in Web Development, Data Analysis, Data Science.
 - 📫 Let's connect and collaborate on exciting projects together! You can reach out to me via email or LinkedIn.
-- If you like any of my work, leave a thumbsUp
+- If you like any of my work, leave a thumbs up.
 
 Feel free to explore my repositories and reach out to me here or on www.linkedin.com/in/md-zahid-hasan-01a01z2002.
 -->
