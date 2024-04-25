@@ -1,9 +1,16 @@
-### Hi there 👋
+# Hello, I'm Zahid! 👋
 
-<!--
-**hasanmd1/hasanmd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student with a love for coding and technology. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing a degree in Computer Science.
+- 💻 Proficient in HTML, CSS, React, React Native, R, Python, SQL, Tableau, Power BI, Scala and Docker.
+- 🚀 Always eager to learn and explore new technologies.
+- 🌟 Interested in Web Development, Data Analysis, Data Science.
+- 📫 Let's connect and collaborate on exciting projects together! You can reach out to me via email or linkedIn
+
+Feel free to explore my repositories and reach out to me here or on www.linkedin.com/in/md-zahid-hasan-01a01z2002.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
