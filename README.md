@@ -10,5 +10,5 @@ I'm a passionate Computer Science student with a love for coding and technology.
 - 📫 Let's connect and collaborate on exciting projects together! You can reach out to me via email or LinkedIn.
 - If you like any of my work, leave a thumbs up.
 
-Feel free to explore my repositories and reach out to me here or on www.linkedin.com/in/md-zahid-hasan-01a01z2002.
+Feel free to explore my repositories and reach out to me here or on www.linkedin.com/in/hasanmd1.
 -->
