@@ -1,4 +1,4 @@
-# Hello, I'm Zahid! 👋
+# Hi there, I am Zahid! 👋
 
 I'm a passionate Computer Science student with a love for coding and technology. Here's a bit about me:
 
