@@ -1,6 +1,6 @@
 # Hi there, I am Zahid! 👋
 
-I'm a passionate Computer Science student with a love for coding and technology. Here's a bit about me:
+I am a passionate Computer Science student and part-time freelancer with a love for coding and technology. Here is a bit about me:
 
 - 🎓 Currently pursuing a degree in Computer Science.
 - 💻 Proficient in HTML, CSS, React, NextJS, NodeJS, R, Python, Django, SQL, Tableau, Power BI, Scala, SpringBoot and Docker.
