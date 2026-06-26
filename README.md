@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I am a **Data Analyst & Software Architect** with a diverse background in both enterprise environments (MSD) and startup leadership (Founder/CTO at SilverLyne). I bridge the gap between complex data infrastructure and high-performance, user-centric applications. 
 
 *   **Current Focus:** Developing RAG-based AI pipelines, optimizing data workflows with Apache Airflow/AWS, and architecting scalable React Native/Next.js applications.
@@ -27,14 +27,14 @@ I am a **Data Analyst & Software Architect** with a diverse background in both e
 
 ---
 
-### 🛠 Technical Proficiency
+### Technical Proficiency
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,flutter,postgres,prisma,docker,aws,kubernetes,r,tableau,powerbi,apacheairflow" />
 </div>
 
 ---
 
-### 🚀 Key Expertise
+### Key Expertise
 | Domain | Technologies |
 | :--- | :--- |
 | **Data & Analytics** | Statistical Analysis, Spotfire, DBeaver, Power BI, Tableau, R |
@@ -44,7 +44,7 @@ I am a **Data Analyst & Software Architect** with a diverse background in both e
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd1&layout=compact&theme=tokyonight&hide_border=true" />
@@ -52,7 +52,7 @@ I am a **Data Analyst & Software Architect** with a diverse background in both e
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 I am always open to consulting, collaborative projects, or discussions about the intersection of Data Science and Software Architecture.
 *   **Email:** [mdzhasancz@gmail.com](mailto:mdzhasancz@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/hasanmd1](https://www.linkedin.com/in/hasanmd1)
