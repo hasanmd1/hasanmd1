@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776ab&center=true&vCenter=true&width=500&height=70&lines=Hi+there%2C+I+am+Zahid+Hasan!+👋;Data+Analyst+%26+Software+Architect;Building+Intelligent+Digital+Solutions." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=30&duration=3000&pause=1000&color=3776ab&center=true&vCenter=true&width=500&height=70&lines=Hi+there%2C+I+am+Zahid+Hasan!+%F0%9F%91%8B;Data+Analyst+%26+Software+Architect;Building+Intelligent+Digital+Solutions." alt="Zahid Hasan - Data Analyst & Software Architect" />
+  </a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/hasanmd1">
