@@ -36,8 +36,8 @@ I am a passionate **Computer Science student** and **Freelancer** dedicated to b
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Zahid's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&count_private=true" alt="Zahid's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -50,5 +50,5 @@ I am always open to discussing new projects, creative ideas, or opportunities.
 *If you find my work helpful, please consider leaving a ⭐️ on my repositories!*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hasanmd1&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
