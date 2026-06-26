@@ -37,10 +37,10 @@ I am a **Data Analyst & Software Architect** with a diverse background in both e
 ### Key Expertise
 | Domain | Technologies |
 | :--- | :--- |
-| **Data & Analytics** | Statistical Analysis, Spotfire, DBeaver, Power BI, Tableau, R |
+| **Data & Analytics** | Statistical Analysis, Spotfire, DBeaver, Power BI, Qlik-Sense, Python, Tableau, R |
 | **AI & ML Engineering** | Retrieval-Augmented Generation (RAG), LLM Integration, Machine Learning |
-| **Full-Stack & Mobile** | Next.js, React Native, Flutter, Prisma ORM, PostgreSQL, Firebase |
-| **DevOps & Cloud** | AWS, Kubernetes, Docker, Apache Airflow |
+| **Full-Stack & Mobile** | Next.js, Angular JS, React Native, Expo, Flutter, Prisma ORM, PostgreSQL, MySQL, NoSQL, MongoDB, Cassandra DB, Firebase |
+| **DevOps & Cloud** | AWS, Kubernetes, Docker, Apache Airflow, Google Clouds, Any CLI/shared cloud server |
 
 ---
 
