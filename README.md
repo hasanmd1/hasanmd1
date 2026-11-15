@@ -16,19 +16,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I am an **AI Engineer & Software Architect** based in Prague, bridging the gap between scalable data infrastructure, cloud pipelines, and high-performance applications.
 
 ---
 
-### 💻 Tech Stack & Frameworks
+### Tech Stack & Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,react,nextjs,nodejs,flutter,postgres,prisma,docker,aws,kubernetes,tableau,powerbi,apacheairflow" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-### 🛠️ Core Expertise
+### Core Expertise
 * **AI, ML & LLM Engineering:** Scikit-Learn, TensorFlow, PyTorch, RAG Architecture, LLM Design & Fine-Tuning, Prompt Engineering
 * **Data Engineering:** Python, PySpark, Databricks, ETL/ELT Pipelines, Apache Airflow
 * **Full-Stack & Mobile:** React, Next.js, TypeScript, Node.js, Flutter, PostgreSQL
@@ -37,7 +37,7 @@ I am an **AI Engineer & Software Architect** based in Prague, bridging the gap b
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hasanmd1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
