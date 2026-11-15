@@ -23,7 +23,7 @@ I am an **AI Engineer & Software Architect** based in Prague, bridging the gap b
 
 ### 💻 Tech Stack & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,nodejs,flutter,postgres,prisma,docker,aws,kubernetes,tableau,powerbi,apacheairflow" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,react,nextjs,nodejs,flutter,postgres,prisma,docker,aws,kubernetes,tableau,powerbi,apacheairflow" alt="Tech Stack Icons" />
 </div>
 
 ---
@@ -37,11 +37,12 @@ I am an **AI Engineer & Software Architect** based in Prague, bridging the gap b
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hasanmd1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasanmd1&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanmd1&theme=tokyonight" alt="Stats" />
 </div>
 
 ---
