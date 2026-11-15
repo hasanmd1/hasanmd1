@@ -21,24 +21,26 @@ I am an **AI Engineer & Software Architect** based in Prague, bridging the gap b
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,flutter,postgres,prisma,docker,aws,kubernetes,tableau,powerbi,apacheairflow" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,nodejs,flutter,postgres,prisma,docker,aws,kubernetes,tableau,powerbi,apacheairflow" alt="Tech Stack Icons" />
 </div>
 
 ---
 
 ### 🛠️ Core Expertise
-* **AI & Data Engineering:** Python, PySpark, Databricks, LLMs, RAG, ETL/ELT Pipelines
+* **AI, ML & LLM Engineering:** Scikit-Learn, TensorFlow, PyTorch, RAG Architecture, LLM Design & Fine-Tuning, Prompt Engineering
+* **Data Engineering:** Python, PySpark, Databricks, ETL/ELT Pipelines, Apache Airflow
 * **Full-Stack & Mobile:** React, Next.js, TypeScript, Node.js, Flutter, PostgreSQL
-* **Cloud & DevOps:** AWS, Docker, Kubernetes, Apache Airflow, CI/CD
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines
 * **Business Intelligence:** Power BI, Tableau, Spotfire
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
