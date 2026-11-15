@@ -17,7 +17,7 @@
 ---
 
 ### About Me
-I am an **AI Engineer & Software Architect** based in Prague, bridging the gap between scalable data infrastructure, cloud pipelines, and high-performance applications.
+I am an **AI Engineer & Software Architect**, bridging the gap between scalable data infrastructure, cloud pipelines, and high-performance applications.
 
 ---
 
