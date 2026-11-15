@@ -1,8 +1,5 @@
 <div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=35&duration=3000&pause=1000&color=3776ab&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I+am+Zahid+Hasan!+%F0%9F%91%8B;Data+Analyst+%26+Software+Architect;Building+Intelligent+Digital+Solutions." alt="Zahid Hasan - Data Analyst & Software Architect" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776ab&center=true&vCenter=true&width=850&height=80&lines=Hi+there%2C+I+am+Zahid+Hasan!+%F0%9F%91%8B;AI+Engineer+%26+Software+Architect;Building+Intelligent+Digital+Solutions." alt="Zahid Hasan" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/hasanmd1">
@@ -19,44 +16,34 @@
 
 ---
 
-### About Me
-I am a **Data Analyst & Software Architect** with a diverse background in both enterprise environments (MSD) and startup leadership (Founder/CTO at SilverLyne). I bridge the gap between complex data infrastructure and high-performance, user-centric applications. 
-
-*   **Current Focus:** Developing RAG-based AI pipelines, optimizing data workflows with Apache Airflow/AWS, and architecting scalable React Native/Next.js applications.
-*   **Passion:** Technical writing and sharing insights on data-driven decision-making and software engineering best practices.
+### 🚀 About Me
+I am an **AI Engineer & Software Architect** based in Prague, bridging the gap between scalable data infrastructure, cloud pipelines, and high-performance applications.
 
 ---
 
-### Technical Proficiency
+### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,flutter,postgres,prisma,docker,aws,kubernetes,r,tableau,powerbi,apacheairflow" />
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,flutter,postgres,prisma,docker,aws,kubernetes,tableau,powerbi,apacheairflow" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-### Key Expertise
-| Domain | Technologies |
-| :--- | :--- |
-| **Data & Analytics** | Statistical Analysis, Spotfire, DBeaver, Power BI, Qlik-Sense, Python, Tableau, R |
-| **AI & ML Engineering** | Retrieval-Augmented Generation (RAG), LLM Integration, Machine Learning |
-| **Full-Stack & Mobile** | Next.js, Angular JS, React Native, Expo, Flutter, Prisma ORM, PostgreSQL, MySQL, NoSQL, MongoDB, Cassandra DB, Firebase |
-| **DevOps & Cloud** | AWS, Kubernetes, Docker, Apache Airflow, Google Clouds, Any CLI/shared cloud server |
+### 🛠️ Core Expertise
+* **AI & Data Engineering:** Python, PySpark, Databricks, LLMs, RAG, ETL/ELT Pipelines
+* **Full-Stack & Mobile:** React, Next.js, TypeScript, Node.js, Flutter, PostgreSQL
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Apache Airflow, CI/CD
+* **Business Intelligence:** Power BI, Tableau, Spotfire
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanmd1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### Let's Connect
-I am always open to consulting, collaborative projects, or discussions about the intersection of Data Science and Software Architecture.
-*   **Email:** [mdzhasancz@gmail.com](mailto:mdzhasancz@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/hasanmd1](https://www.linkedin.com/in/hasanmd1)
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasanmd1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hasanmd1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
